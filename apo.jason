@@ -4,14 +4,14 @@
     "username": "sendiHabis",
     "password": "sendiHabis",
     "expiresAt": "2025-06-28",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "68d7db70dd5825f3",
     "username": "aldiHabis",
     "password": "aldiHabis",
     "expiresAt": "2025-06-28",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "3ad6c0d527b62a29",
