@@ -1,15 +1,15 @@
 [
   {
     "id": "923b64c1704a32f6",
-    "username": "sendi",
-    "password": "sendi",
+    "username": "sendiHabis",
+    "password": "sendiHabis",
     "expiresAt": "2025-06-28",
     "allowOffline": true
   },
   {
     "id": "68d7db70dd5825f3",
-    "username": "aldi",
-    "password": "aldi",
+    "username": "aldiHabis",
+    "password": "aldiHabis",
     "expiresAt": "2025-06-28",
     "allowOffline": true
   },
