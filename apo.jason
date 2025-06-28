@@ -8,10 +8,10 @@
   },
   {
     "id": "68d7db70dd5825f3",
-    "username": "aldiHabis",
-    "password": "aldiHabis",
+    "username": "aldi",
+    "password": "aldi",
     "expiresAt": "2025-06-28",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "3ad6c0d527b62a29",
