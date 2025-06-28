@@ -1,10 +1,10 @@
 [
   {
     "id": "923b64c1704a32f6",
-    "username": "sendiHabis",
-    "password": "sendiHabis",
-    "expiresAt": "2025-06-28",
-    "allowOffline": false
+    "username": "sendi",
+    "password": "sendi",
+    "expiresAt": "2025-07-28",
+    "allowOffline": true
   },
   {
     "id": "68d7db70dd5825f3",
