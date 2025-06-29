@@ -18,7 +18,7 @@
     "username": "rizwanAbes",
     "password": "rizwanAbes",
     "expiresAt": "2025-06-30",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "c7019be6c2a50da4",
