@@ -15,10 +15,10 @@
   },
   {
     "id": "3ad6c0d527b62a29",
-    "username": "rizwanAbes",
-    "password": "rizwanAbes",
-    "expiresAt": "2025-06-30",
-    "allowOffline": false
+    "username": "rizwan",
+    "password": "rizwan",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
   },
   {
     "id": "c7019be6c2a50da4",
