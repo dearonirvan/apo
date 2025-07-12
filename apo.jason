@@ -22,10 +22,10 @@
   },
   {
     "id": "c7019be6c2a50da4",
-    "username": "jamiatAbes",
-    "password": "jamiatAbes",
-    "expiresAt": "2025-07-12",
-    "allowOffline": false
+    "username": "jamiat",
+    "password": "jamiat",
+    "expiresAt": "2025-08-12",
+    "allowOffline": true
   },
   {
     "id": "6a779c48402c9c5d",
