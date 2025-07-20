@@ -32,7 +32,7 @@
     "username": "andriAbes",
     "password": "andriAbes",
     "expiresAt": "2025-07-20",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "294a9cfa377baa70",
