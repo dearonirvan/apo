@@ -4,33 +4,33 @@
     "username": "sendi",
     "password": "sendi",
     "expiresAt": "2025-07-28",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "68d7db70dd5825f3",
     "username": "aldi",
     "password": "aldi",
     "expiresAt": "2025-07-28",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "3ad6c0d527b62a29",
     "username": "rizwan",
     "password": "rizwan",
     "expiresAt": "2025-07-30",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "46eade0aa52eafda",
     "username": "jamiat",
     "password": "jamiat",
     "expiresAt": "2025-08-12",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "6a779c48402c9c5d",
-    "username": "andriAbes",
-    "password": "andriAbes",
+    "username": "kosong",
+    "password": "kosong",
     "expiresAt": "2025-07-20",
     "allowOffline": false
   },
