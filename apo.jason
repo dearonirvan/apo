@@ -60,7 +60,7 @@
     "username": "kosong",
     "password": "kosong",
     "expiresAt": "2025-12-31",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "294a9cfa377baa70",
