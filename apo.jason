@@ -23,17 +23,17 @@
   
   {
     "id": "6a779c48402c9c5d",
-    "username": "iwan",
+    "username": "iwanAbes",
     "password": "iwan",
     "expiresAt": "2025-10-30",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "433995e0bd4b2ca8",
-    "username": "fauzi",
+    "username": "fauziAbes",
     "password": "fauzi",
     "expiresAt": "2025-10-30",
-    "allowOffline": true
+    "allowOffline": false
   },
   
   {
@@ -45,9 +45,9 @@
   },
   {
     "id": "37c6a362b38fb9ed",
-    "username": "farhan",
+    "username": "farhanAbes",
     "password": "farhan",
-    "expiresAt": "2025-10-31",
+    "expiresAt": "2025-10-30",
     "allowOffline": false
   },
   {
