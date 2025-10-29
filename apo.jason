@@ -44,13 +44,6 @@
     "allowOffline": false
   },
   {
-    "id": "73e4aee5848531f7",
-    "username": "andreAbes",
-    "password": "andre",
-    "expiresAt": "2025-10-29",
-    "allowOffline": true
-  },
-  {
     "id": "37c6a362b38fb9ed",
     "username": "farhan",
     "password": "farhan",
@@ -65,14 +58,21 @@
     "allowOffline": true
   },
   {
-    "id": "294a9cfa377baa70",
+    "id": "294a9cfa377baa90",
     "username": "kosong",
     "password": "kosong",
     "expiresAt": "2025-12-31",
     "allowOffline": false
   },
   {
-    "id": "294a9cfa377baa70",
+    "id": "294a9cfa377baa50",
+    "username": "kosong",
+    "password": "kosong",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
+  },
+  {
+    "id": "294a9cfa377baa71",
     "username": "kosong",
     "password": "kosong",
     "expiresAt": "2025-12-31",
