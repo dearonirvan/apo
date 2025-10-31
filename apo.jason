@@ -20,22 +20,13 @@
     "expiresAt": "2025-11-28",
     "allowOffline": true
   },
-  
-  {
-    "id": "6a779c48402c9c5d",
-    "username": "iwanAbes",
-    "password": "iwan",
-    "expiresAt": "2025-10-30",
-    "allowOffline": false
-  },
   {
     "id": "433995e0bd4b2ca8",
     "username": "fauzi",
     "password": "fauzi",
     "expiresAt": "2025-11-29",
     "allowOffline": true
-  },
-  
+  }, 
   {
     "id": "d558f8217d65e58c",
     "username": "agnan",
