@@ -23,7 +23,7 @@
   {
     "id": "433995e0bd4b2ca8",
     "username": "fauzi",
-    "password": "fauzi",
+    "password": "fauziAbes",
     "expiresAt": "2025-11-29",
     "allowOffline": true
   }, 
@@ -36,7 +36,7 @@
   },
   {
     "id": "37c6a362b38fb9ed",
-    "username": "farhan",
+    "username": "farhanAbes",
     "password": "farhan",
     "expiresAt": "2025-11-29",
     "allowOffline": true
